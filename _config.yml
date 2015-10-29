@@ -1,0 +1,23 @@
+name: Martin Gros
+favicon: null
+layout_spectrum: 0.7089234767481685
+typography_spectrum: 0.7288238133769482
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3007767505478114
+  lightness: 0.013749494682997465
+  saturation: 0.32829457824118435
+  rhythmicContrast: 0.021677671698853374
+purpose: []
